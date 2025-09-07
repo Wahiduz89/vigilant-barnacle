@@ -1,0 +1,69 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "name": "Luxury Villa in Goa",
+        "type": "villa",
+        "location": "Goa, India",
+        "price": 12500000,
+        "description": "Beautiful 4-bedroom villa with ocean view and private pool",
+        "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400",
+        "coordinates": "15.2993, 74.1240",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area": "3500 sq ft"
+      },
+      {
+        "id": 2,
+        "name": "Modern Apartment in Mumbai",
+        "type": "apartment",
+        "location": "Mumbai, Maharashtra",
+        "price": 8500000,
+        "description": "2-bedroom modern apartment in prime location with city view",
+        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400",
+        "coordinates": "19.0760, 72.8777",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area": "1200 sq ft"
+      },
+      {
+        "id": 3,
+        "name": "Independent House in Bangalore",
+        "type": "house",
+        "location": "Bangalore, Karnataka",
+        "price": 7500000,
+        "description": "Spacious 3-bedroom independent house with garden",
+        "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=400",
+        "coordinates": "12.9716, 77.5946",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": "2000 sq ft"
+      },
+      {
+        "id": 4,
+        "name": "Studio Apartment in Delhi",
+        "type": "apartment",
+        "location": "New Delhi, Delhi",
+        "price": 4500000,
+        "description": "Compact studio apartment perfect for single professionals",
+        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400",
+        "coordinates": "28.7041, 77.1025",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area": "600 sq ft"
+      },
+      {
+        "id": 5,
+        "name": "Beachfront Villa in Chennai",
+        "type": "villa",
+        "location": "Chennai, Tamil Nadu",
+        "price": 15000000,
+        "description": "Stunning beachfront villa with panoramic ocean views",
+        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+        "coordinates": "13.0827, 80.2707",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "area": "4000 sq ft"
+      }
+    ]
+  }
